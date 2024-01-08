@@ -3,6 +3,6 @@
     <pages>
         <page name='1-Acceso a un archivo en el sistema de archivos'/>
         <page name='2-Validación de un formulario de registro'/>
-        <page name='3-alizar una solicitud HTTP'/>
+        <page name='3-Realizar una solicitud HTTP'/>
     </pages>
 </playground>
